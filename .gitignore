@@ -1,0 +1,3 @@
+# 큰 아티팩트는 git 아닌 GitHub 릴리스 자산으로. git 엔 manifest/index 만.
+*.zip
+stage/

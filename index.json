@@ -1,0 +1,12 @@
+{
+  "models": {
+    "version": 1,
+    "zipUrl": "https://huggingface.co/datasets/kunhee2/peak-models/resolve/main/peak-models-v1.zip",
+    "sha256": "d9347db0eee7a6937f513100041ac8b6be490be08d8af9d52b5f8696a1675112"
+  },
+  "js": {
+    "version": 0,
+    "zipUrl": "",
+    "sha256": ""
+  }
+}

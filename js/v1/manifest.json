@@ -1,0 +1,8 @@
+{
+  "channel": "js",
+  "version": 1,
+  "tag": "js-v1",
+  "zipUrl": "https://github.com/rg5668/peak-ota/releases/download/js-v1/peak-js-v1.zip",
+  "sha256": "",
+  "note": "렌더러 dist/ 번들. 얇은 일렉트론 OTA — 앱이 받아 file:// 로드. (로더 미구현, 구조만)"
+}
